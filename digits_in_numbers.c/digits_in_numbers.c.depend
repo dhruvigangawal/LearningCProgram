@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552846842 source:d:\dhruvi engineering\learning\learningcprogram\digits_in_numbers.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
